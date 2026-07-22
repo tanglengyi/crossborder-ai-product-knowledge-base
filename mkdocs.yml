@@ -25,29 +25,30 @@ markdown_extensions:
       permalink: true
 
 nav:
-  - 首页: index.md
+  - 首页: 00-home.md
   - 知识库说明:
-      - 知识地图: knowledge-map.md
-      - 贡献规范: contribution-guide.md
-      - 术语表: glossary.md
-      - 主题模板: topic-template.md
-      - 流程模板: process-template.md
-      - 案例模板: case-template.md
-  - GM经营系统: gm-operating-system.md
+      - 知识地图: 01-knowledge-map.md
+      - 术语表: 02-glossary.md
+  - GM经营系统: 03-gm-operating-system.md
   - 市场与选品:
-      - 市场洞察与品类管理: market-and-category.md
-      - Kalodata 数据化选品: tiktok-kalodata-product-selection.md
-      - 选品深度判断与竞品拆解: tiktok-kalodata-selection-deep-dive.md
-  - 产品供应链库存: product-supply-inventory.md
-  - 增长与销售: growth-and-sales.md
-  - 客户运营: customer-operations.md
-  - 数据与财务: data-and-finance.md
-  - 组织与决策: organization-and-management.md
-  - TikTok全流程: tiktok-end-to-end.md
+      - 市场洞察与品类管理: 04-market-and-category.md
+      - Kalodata 数据化选品: 05-tiktok-kalodata-product-selection.md
+      - 选品深度判断与竞品拆解: 06-tiktok-kalodata-selection-deep-dive.md
+  - 产品供应链库存: 07-product-supply-inventory.md
+  - 增长与销售: 08-growth-and-sales.md
+  - 客户运营: 09-customer-operations.md
+  - 数据与财务: 10-data-and-finance.md
+  - 组织与决策: 11-organization-and-management.md
+  - TikTok全流程: 12-tiktok-end-to-end.md
   - AI电商平台:
-      - 平台架构: ai-platform-architecture.md
-      - 智能体能力: ai-platform-agents.md
+      - 平台架构: 13-ai-platform-architecture.md
+      - 智能体能力: 14-ai-platform-agents.md
   - 案例与来源:
-      - 案例库说明: cases.md
-      - Kalodata 演示会笔记: kalodata-webinar-selection-notes.md
-  - 工具资源: tools-and-resources.md
+      - 案例库说明: 15-cases.md
+      - Kalodata 演示会笔记: 16-kalodata-webinar-selection-notes.md
+  - 工具资源: 17-tools-and-resources.md
+  - 维护与模板:
+      - 贡献规范: 90-contribution-guide.md
+      - 主题模板: 91-topic-template.md
+      - 流程模板: 92-process-template.md
+      - 案例模板: 93-case-template.md

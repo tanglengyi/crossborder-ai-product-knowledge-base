@@ -6,8 +6,8 @@
 
 它不是独立的经营标准。稳定、可复用的方法论已经整理到：
 
-- [TikTok 数据化选品标准七步法](../02-market-category/tiktok-kalodata-product-selection.md)
-- [TikTok 数据化选品深度判断与竞品拆解](../02-market-category/tiktok-kalodata-selection-deep-dive.md)
+- [TikTok 数据化选品标准七步法](05-tiktok-kalodata-product-selection.md)
+- [TikTok 数据化选品深度判断与竞品拆解](06-tiktok-kalodata-selection-deep-dive.md)
 
 ---
 

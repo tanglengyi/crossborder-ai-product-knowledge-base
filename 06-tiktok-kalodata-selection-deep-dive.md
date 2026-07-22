@@ -2,7 +2,7 @@
 
 ## 1. 文档定位
 
-本文件是 [TikTok 数据化选品流程：Kalodata 实操方法](tiktok-kalodata-product-selection.md) 的深化说明。
+本文件是 [TikTok 数据化选品流程：Kalodata 实操方法](05-tiktok-kalodata-product-selection.md) 的深化说明。
 
 主文档解决“选品流程怎么跑”，本文件重点解决三个问题：
 
@@ -314,7 +314,7 @@
 
 ## 11. 相关资料
 
-- [标准七步选品流程](tiktok-kalodata-product-selection.md)
-- [Kalodata 产品演示会来源笔记](../90-cases/2026-07-kalodata-webinar-selection-notes.md)
-- [市场洞察与品类管理](market-and-category.md)
-- [增长营销与销售运营](../04-growth-sales/growth-and-sales.md)
+- [标准七步选品流程](05-tiktok-kalodata-product-selection.md)
+- [Kalodata 产品演示会来源笔记](16-kalodata-webinar-selection-notes.md)
+- [市场洞察与品类管理](04-market-and-category.md)
+- [增长营销与销售运营](08-growth-and-sales.md)

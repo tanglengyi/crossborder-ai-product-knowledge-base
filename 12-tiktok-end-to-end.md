@@ -236,9 +236,9 @@ Kalodata、FastMoss、Shoplus、EchoTik、Google Trends、SimilarWeb 等。
 
 ## 15. 与知识库其他模块的关系
 
-- 市场与选品：参见 `02-market-category`。
-- 产品、供应链和库存：参见 `03-product-supply-chain`。
-- 内容、达人、广告和转化：参见 `04-growth-sales`。
-- 客户和售后：参见 `05-crm-service`。
-- 数据、利润和现金流：参见 `06-data-finance`。
-- 项目和经营机制：参见 `07-organization`。
+- 市场与选品：[市场洞察与品类管理](04-market-and-category.md)、[Kalodata 数据化选品](05-tiktok-kalodata-product-selection.md)。
+- 产品、供应链和库存：[产品开发、供应链与库存](07-product-supply-inventory.md)。
+- 内容、达人、广告和转化：[增长营销与销售运营](08-growth-and-sales.md)。
+- 客户和售后：[客户运营与售后](09-customer-operations.md)。
+- 数据、利润和现金流：[数据分析与财务经营](10-data-and-finance.md)。
+- 项目和经营机制：[组织协同与经营决策](11-organization-and-management.md)。
