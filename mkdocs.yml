@@ -1,17 +1,20 @@
 site_name: 跨境电商经营与 AI 产品知识库
 site_description: 电商 GM、TikTok 跨境业务与 AI 电商平台知识体系
-repo_url: https://github.com/tanglengyi/-
-repo_name: tanglengyi/-
+repo_url: https://github.com/tanglengyi/crossborder-ai-product-knowledge-base
+repo_name: tanglengyi/crossborder-ai-product-knowledge-base
+docs_dir: .
+site_dir: ../crossborder-ai-product-knowledge-base-site
+
 theme:
   name: material
   language: zh
   features:
     - navigation.tabs
     - navigation.sections
-    - navigation.indexes
     - navigation.top
     - search.suggest
     - search.highlight
+
 markdown_extensions:
   - admonition
   - attr_list
@@ -20,31 +23,31 @@ markdown_extensions:
   - tables
   - toc:
       permalink: true
+
 nav:
   - 首页: index.md
-  - 元知识:
-      - 知识地图: 00-meta/knowledge-map.md
-      - 贡献规范: 00-meta/contribution-guide.md
-      - 术语表: 00-meta/glossary.md
-      - 模板:
-          - 主题模板: 00-meta/templates/topic-template.md
-          - 流程模板: 00-meta/templates/process-template.md
-          - 案例模板: 00-meta/templates/case-template.md
-  - GM经营系统: 01-gm/operating-system.md
-  - 市场与品类:
-      - 市场洞察与品类管理: 02-market-category/market-and-category.md
-      - TikTok Kalodata 数据化选品: 02-market-category/tiktok-kalodata-product-selection.md
-      - 选品深度判断与竞品拆解: 02-market-category/tiktok-kalodata-selection-deep-dive.md
-  - 产品供应链库存: 03-product-supply-chain/product-supply-inventory.md
-  - 增长与销售: 04-growth-sales/growth-and-sales.md
-  - 客户运营: 05-crm-service/customer-operations.md
-  - 数据与财务: 06-data-finance/data-and-finance.md
-  - 组织与决策: 07-organization/organization-and-management.md
-  - TikTok全流程: 08-tiktok/end-to-end.md
+  - 知识库说明:
+      - 知识地图: knowledge-map.md
+      - 贡献规范: contribution-guide.md
+      - 术语表: glossary.md
+      - 主题模板: topic-template.md
+      - 流程模板: process-template.md
+      - 案例模板: case-template.md
+  - GM经营系统: gm-operating-system.md
+  - 市场与选品:
+      - 市场洞察与品类管理: market-and-category.md
+      - Kalodata 数据化选品: tiktok-kalodata-product-selection.md
+      - 选品深度判断与竞品拆解: tiktok-kalodata-selection-deep-dive.md
+  - 产品供应链库存: product-supply-inventory.md
+  - 增长与销售: growth-and-sales.md
+  - 客户运营: customer-operations.md
+  - 数据与财务: data-and-finance.md
+  - 组织与决策: organization-and-management.md
+  - TikTok全流程: tiktok-end-to-end.md
   - AI电商平台:
-      - 平台架构: 09-ai-platform/architecture.md
-      - 智能体能力: 09-ai-platform/agents.md
-  - 案例库:
-      - 案例库说明: 90-cases/README.md
-      - Kalodata 演示会笔记: 90-cases/2026-07-kalodata-webinar-selection-notes.md
-  - 工具资源: 99-resources/tools.md
+      - 平台架构: ai-platform-architecture.md
+      - 智能体能力: ai-platform-agents.md
+  - 案例与来源:
+      - 案例库说明: cases.md
+      - Kalodata 演示会笔记: kalodata-webinar-selection-notes.md
+  - 工具资源: tools-and-resources.md
