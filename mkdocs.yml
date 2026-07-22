@@ -34,6 +34,7 @@ nav:
   - 市场与品类:
       - 市场洞察与品类管理: 02-market-category/market-and-category.md
       - TikTok Kalodata 数据化选品: 02-market-category/tiktok-kalodata-product-selection.md
+      - 选品深度判断与竞品拆解: 02-market-category/tiktok-kalodata-selection-deep-dive.md
   - 产品供应链库存: 03-product-supply-chain/product-supply-inventory.md
   - 增长与销售: 04-growth-sales/growth-and-sales.md
   - 客户运营: 05-crm-service/customer-operations.md
@@ -43,5 +44,7 @@ nav:
   - AI电商平台:
       - 平台架构: 09-ai-platform/architecture.md
       - 智能体能力: 09-ai-platform/agents.md
-  - 案例库: 90-cases/README.md
+  - 案例库:
+      - 案例库说明: 90-cases/README.md
+      - Kalodata 演示会笔记: 90-cases/2026-07-kalodata-webinar-selection-notes.md
   - 工具资源: 99-resources/tools.md
