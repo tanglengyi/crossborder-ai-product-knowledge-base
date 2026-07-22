@@ -23,7 +23,7 @@
 | `07-organization` | 团队管理、跨部门协同和经营复盘 |
 | `08-tiktok` | TikTok 跨境电商端到端业务流程 |
 | `09-ai-platform` | AI 电商经营平台架构与智能体设计 |
-| `90-cases` | 实战案例、复盘和行业拆解 |
+| `90-cases` | 实战案例、会议来源、复盘和行业拆解 |
 | `99-resources` | 工具、数据源和参考资料 |
 
 ## 阅读路径
@@ -43,7 +43,9 @@
 
 1. 阅读 [TikTok 跨境电商全流程](docs/08-tiktok/end-to-end.md)，理解端到端业务链路。
 2. 阅读 [TikTok 数据化选品：Kalodata 实操方法](docs/02-market-category/tiktok-kalodata-product-selection.md)，掌握选赛道、算利润、拆竞品和测试放量。
-3. 再结合供应链、增长、客户和财务模块深入学习。
+3. 阅读 [选品深度判断与竞品拆解](docs/02-market-category/tiktok-kalodata-selection-deep-dive.md)，理解长期潜力、评论、达人、视频和直播分析。
+4. 通过 [Kalodata 演示会来源笔记](docs/90-cases/2026-07-kalodata-webinar-selection-notes.md) 查看会议口径、历史工具信息和术语纠错。
+5. 再结合供应链、增长、客户和财务模块深入学习。
 
 ### AI 产品经理路线
 
