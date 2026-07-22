@@ -383,11 +383,11 @@ Kalodata 和 AI 工具可以降低信息搜集、数据分析和内容制作成�
 
 ## 8. 与知识库其他模块的关系
 
-- 市场进入和品类选择：[市场洞察与品类管理](market-and-category.md)
-- 产品、采购和库存承接：[产品开发、供应链与库存](../03-product-supply-chain/product-supply-inventory.md)
-- 内容、达人和投放：[增长营销与销售运营](../04-growth-sales/growth-and-sales.md)
-- 利润模型与经营分析：[数据分析与财务经营](../06-data-finance/data-and-finance.md)
-- TikTok 端到端流程：[TikTok 跨境电商全流程](../08-tiktok/end-to-end.md)
+- 市场进入和品类选择：[市场洞察与品类管理](04-market-and-category.md)
+- 产品、采购和库存承接：[产品开发、供应链与库存](07-product-supply-inventory.md)
+- 内容、达人和投放：[增长营销与销售运营](08-growth-and-sales.md)
+- 利润模型与经营分析：[数据分析与财务经营](10-data-and-finance.md)
+- TikTok 端到端流程：[TikTok 跨境电商全流程](12-tiktok-end-to-end.md)
 
 ---
 
