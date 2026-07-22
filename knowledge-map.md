@@ -69,16 +69,18 @@
 
 ## 5. 文件归属规则
 
-- 跨多个模块的总方法论放在 `01-gm`。
-- 市场、用户、竞争和 SKU 规划放在 `02-market-category`。
-- 商品落地、采购、物流和库存放在 `03-product-supply-chain`。
-- 内容、达人、广告、Listing 和促销放在 `04-growth-sales`。
-- 客服、评价、会员和复购放在 `05-crm-service`。
-- 指标、BI、成本和 P&L 放在 `06-data-finance`。
-- 团队、协同、年度规划和复盘放在 `07-organization`。
-- 跨境业务端到端串联放在 `08-tiktok`。
-- 系统架构、AI能力和智能体放在 `09-ai-platform`。
-- 具体公司、商品、项目和复盘放在 `90-cases`。
+所有文件均放在仓库根目录，通过稳定的文件名前缀表达归属：
+
+- `gm-`：跨模块经营总方法论。
+- `market-`、`tiktok-kalodata-`：市场、品类与数据化选品。
+- `product-`：产品开发、采购、物流和库存。
+- `growth-`：内容、达人、广告、Listing 和促销。
+- `customer-`：客服、评价、会员和复购。
+- `data-`：指标、BI、成本、利润和现金流。
+- `organization-`：团队、协同、年度规划和复盘。
+- `tiktok-`：TikTok 端到端流程与专项方法。
+- `ai-platform-`：系统架构、AI 能力和智能体。
+- 日期开头或明确来源名称：案例、会议记录和复盘。
 
 ## 6. 扩展原则
 

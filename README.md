@@ -7,70 +7,60 @@
 - 把零散经验拆成可检索、可复用、可持续扩展的知识单元。
 - 同时服务于电商经营学习、岗位能力建设、业务方案设计和 AI 产品规划。
 - 建立“战略—经营—执行—数据—系统—AI”的完整闭环。
-- 通过统一模板沉淀概念、流程、案例、指标和产品能力。
+- 所有知识文件直接平铺在仓库根目录，通过文件名和导航分类。
 
-## 内容结构
+## 核心文件
 
-| 模块 | 说明 |
+| 领域 | 文件 |
 |---|---|
-| `00-meta` | 知识地图、术语、贡献规范和模板 |
-| `01-gm` | 电商 GM 定位、经营系统和能力模型 |
-| `02-market-category` | 市场洞察、品类战略、SKU 经营和数据化选品 |
-| `03-product-supply-chain` | 产品开发、采购、物流和库存经营 |
-| `04-growth-sales` | 内容、达人、广告、Listing 和销售转化 |
-| `05-crm-service` | 客服、评价、会员、复购和 LTV |
-| `06-data-finance` | 指标体系、经营分析、成本和 P&L |
-| `07-organization` | 团队管理、跨部门协同和经营复盘 |
-| `08-tiktok` | TikTok 跨境电商端到端业务流程 |
-| `09-ai-platform` | AI 电商经营平台架构与智能体设计 |
-| `90-cases` | 实战案例、会议来源、复盘和行业拆解 |
-| `99-resources` | 工具、数据源和参考资料 |
+| 知识库说明 | [知识地图](knowledge-map.md)、[贡献规范](contribution-guide.md)、[术语表](glossary.md) |
+| 文档模板 | [主题模板](topic-template.md)、[流程模板](process-template.md)、[案例模板](case-template.md) |
+| GM 经营 | [电商 GM 经营系统](gm-operating-system.md) |
+| 市场与品类 | [市场洞察与品类管理](market-and-category.md) |
+| 数据化选品 | [Kalodata 标准选品流程](tiktok-kalodata-product-selection.md)、[深度判断与竞品拆解](tiktok-kalodata-selection-deep-dive.md) |
+| 产品与供应链 | [产品开发、供应链与库存](product-supply-inventory.md) |
+| 增长与销售 | [增长营销与销售运营](growth-and-sales.md) |
+| 客户运营 | [客户运营与售后](customer-operations.md) |
+| 数据与财务 | [数据分析与财务经营](data-and-finance.md) |
+| 组织管理 | [组织协同与经营决策](organization-and-management.md) |
+| TikTok 全流程 | [TikTok 跨境电商端到端流程](tiktok-end-to-end.md) |
+| AI 平台 | [AI 电商经营平台架构](ai-platform-architecture.md)、[AI 智能体能力清单](ai-platform-agents.md) |
+| 案例与来源 | [案例库说明](cases.md)、[Kalodata 演示会笔记](kalodata-webinar-selection-notes.md) |
+| 工具资源 | [工具与数据源](tools-and-resources.md) |
 
-## 阅读路径
+## 推荐阅读路线
 
 ### 电商经营路线
 
-1. [GM 经营系统](docs/01-gm/operating-system.md)
-2. [市场洞察与品类管理](docs/02-market-category/market-and-category.md)
-3. [TikTok 数据化选品：Kalodata 实操方法](docs/02-market-category/tiktok-kalodata-product-selection.md)
-4. [产品开发、供应链与库存](docs/03-product-supply-chain/product-supply-inventory.md)
-5. [增长营销与销售运营](docs/04-growth-sales/growth-and-sales.md)
-6. [客户运营与售后](docs/05-crm-service/customer-operations.md)
-7. [数据分析与财务经营](docs/06-data-finance/data-and-finance.md)
-8. [组织协同与经营决策](docs/07-organization/organization-and-management.md)
+1. [电商 GM 经营系统](gm-operating-system.md)
+2. [市场洞察与品类管理](market-and-category.md)
+3. [TikTok 数据化选品流程](tiktok-kalodata-product-selection.md)
+4. [产品开发、供应链与库存](product-supply-inventory.md)
+5. [增长营销与销售运营](growth-and-sales.md)
+6. [客户运营与售后](customer-operations.md)
+7. [数据分析与财务经营](data-and-finance.md)
+8. [组织协同与经营决策](organization-and-management.md)
 
 ### TikTok 跨境路线
 
-1. 阅读 [TikTok 跨境电商全流程](docs/08-tiktok/end-to-end.md)，理解端到端业务链路。
-2. 阅读 [TikTok 数据化选品：Kalodata 实操方法](docs/02-market-category/tiktok-kalodata-product-selection.md)，掌握选赛道、算利润、拆竞品和测试放量。
-3. 阅读 [选品深度判断与竞品拆解](docs/02-market-category/tiktok-kalodata-selection-deep-dive.md)，理解长期潜力、评论、达人、视频和直播分析。
-4. 通过 [Kalodata 演示会来源笔记](docs/90-cases/2026-07-kalodata-webinar-selection-notes.md) 查看会议口径、历史工具信息和术语纠错。
-5. 再结合供应链、增长、客户和财务模块深入学习。
+1. [TikTok 跨境电商端到端流程](tiktok-end-to-end.md)
+2. [Kalodata 标准选品流程](tiktok-kalodata-product-selection.md)
+3. [选品深度判断与竞品拆解](tiktok-kalodata-selection-deep-dive.md)
+4. [Kalodata 演示会来源笔记](kalodata-webinar-selection-notes.md)
 
 ### AI 产品经理路线
 
-1. [AI 电商经营平台架构](docs/09-ai-platform/architecture.md)
-2. [AI 智能体与能力清单](docs/09-ai-platform/agents.md)
-3. 将业务模块映射为数据、流程、系统和 AI 能力。
+1. [AI 电商经营平台架构](ai-platform-architecture.md)
+2. [AI 智能体与能力清单](ai-platform-agents.md)
+3. 将经营流程映射为业务对象、数据、系统、工作流和智能体能力。
 
-## 如何扩展
+## 扩展规则
 
-新增内容前，请先阅读：
-
-- [知识地图](docs/00-meta/knowledge-map.md)
-- [贡献与维护规范](docs/00-meta/contribution-guide.md)
-- [术语表](docs/00-meta/glossary.md)
-- [知识主题模板](docs/00-meta/templates/topic-template.md)
-- [流程模板](docs/00-meta/templates/process-template.md)
-- [案例模板](docs/00-meta/templates/case-template.md)
+新增知识文件时直接放在仓库根目录，使用小写英文和连字符命名。专题、流程和案例分别参考对应模板，不再创建多层目录。
 
 ## 本地预览
-
-本知识库兼容 MkDocs Material：
 
 ```bash
 pip install mkdocs-material
 mkdocs serve
 ```
-
-然后访问本地提示地址即可浏览。
