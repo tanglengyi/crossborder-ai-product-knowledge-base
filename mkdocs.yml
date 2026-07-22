@@ -1,0 +1,47 @@
+site_name: 跨境电商经营与 AI 产品知识库
+site_description: 电商 GM、TikTok 跨境业务与 AI 电商平台知识体系
+repo_url: https://github.com/tanglengyi/-
+repo_name: tanglengyi/-
+theme:
+  name: material
+  language: zh
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+markdown_extensions:
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - tables
+  - toc:
+      permalink: true
+nav:
+  - 首页: index.md
+  - 元知识:
+      - 知识地图: 00-meta/knowledge-map.md
+      - 贡献规范: 00-meta/contribution-guide.md
+      - 术语表: 00-meta/glossary.md
+      - 模板:
+          - 主题模板: 00-meta/templates/topic-template.md
+          - 流程模板: 00-meta/templates/process-template.md
+          - 案例模板: 00-meta/templates/case-template.md
+  - GM经营系统: 01-gm/operating-system.md
+  - 市场与品类:
+      - 市场洞察与品类管理: 02-market-category/market-and-category.md
+      - TikTok Kalodata 数据化选品: 02-market-category/tiktok-kalodata-product-selection.md
+  - 产品供应链库存: 03-product-supply-chain/product-supply-inventory.md
+  - 增长与销售: 04-growth-sales/growth-and-sales.md
+  - 客户运营: 05-crm-service/customer-operations.md
+  - 数据与财务: 06-data-finance/data-and-finance.md
+  - 组织与决策: 07-organization/organization-and-management.md
+  - TikTok全流程: 08-tiktok/end-to-end.md
+  - AI电商平台:
+      - 平台架构: 09-ai-platform/architecture.md
+      - 智能体能力: 09-ai-platform/agents.md
+  - 案例库: 90-cases/README.md
+  - 工具资源: 99-resources/tools.md
