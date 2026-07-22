@@ -15,7 +15,7 @@
 |---|---|
 | `00-meta` | 知识地图、术语、贡献规范和模板 |
 | `01-gm` | 电商 GM 定位、经营系统和能力模型 |
-| `02-market-category` | 市场洞察、品类战略和 SKU 经营 |
+| `02-market-category` | 市场洞察、品类战略、SKU 经营和数据化选品 |
 | `03-product-supply-chain` | 产品开发、采购、物流和库存经营 |
 | `04-growth-sales` | 内容、达人、广告、Listing 和销售转化 |
 | `05-crm-service` | 客服、评价、会员、复购和 LTV |
@@ -32,15 +32,18 @@
 
 1. [GM 经营系统](docs/01-gm/operating-system.md)
 2. [市场洞察与品类管理](docs/02-market-category/market-and-category.md)
-3. [产品开发、供应链与库存](docs/03-product-supply-chain/product-supply-inventory.md)
-4. [增长营销与销售运营](docs/04-growth-sales/growth-and-sales.md)
-5. [客户运营与售后](docs/05-crm-service/customer-operations.md)
-6. [数据分析与财务经营](docs/06-data-finance/data-and-finance.md)
-7. [组织协同与经营决策](docs/07-organization/organization-and-management.md)
+3. [TikTok 数据化选品：Kalodata 实操方法](docs/02-market-category/tiktok-kalodata-product-selection.md)
+4. [产品开发、供应链与库存](docs/03-product-supply-chain/product-supply-inventory.md)
+5. [增长营销与销售运营](docs/04-growth-sales/growth-and-sales.md)
+6. [客户运营与售后](docs/05-crm-service/customer-operations.md)
+7. [数据分析与财务经营](docs/06-data-finance/data-and-finance.md)
+8. [组织协同与经营决策](docs/07-organization/organization-and-management.md)
 
 ### TikTok 跨境路线
 
-阅读 [TikTok 跨境电商全流程](docs/08-tiktok/end-to-end.md)，再结合各专业模块深入学习。
+1. 阅读 [TikTok 跨境电商全流程](docs/08-tiktok/end-to-end.md)，理解端到端业务链路。
+2. 阅读 [TikTok 数据化选品：Kalodata 实操方法](docs/02-market-category/tiktok-kalodata-product-selection.md)，掌握选赛道、算利润、拆竞品和测试放量。
+3. 再结合供应链、增长、客户和财务模块深入学习。
 
 ### AI 产品经理路线
 
