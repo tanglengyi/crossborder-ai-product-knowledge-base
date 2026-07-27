@@ -43,6 +43,7 @@
 | 15 | 案例库 | [案例库说明](15-cases.md) |
 | 16 | 会议来源 | [Kalodata 演示会笔记](16-kalodata-webinar-selection-notes.md) |
 | 17 | 工具资源 | [工具与数据源](17-tools-and-resources.md) |
+| 18 | 商业游学 | [2026 中国商业游学手册](18-2026-business-study-tour.md) |
 | 90 | 维护规范 | [贡献与维护规范](90-contribution-guide.md) |
 | 91–93 | 文档模板 | [主题模板](91-topic-template.md)、[流程模板](92-process-template.md)、[案例模板](93-case-template.md) |
 
@@ -71,6 +72,12 @@
 1. [AI 电商经营平台架构](13-ai-platform-architecture.md)
 2. [AI 智能体与能力清单](14-ai-platform-agents.md)
 3. 将经营流程映射为业务对象、数据、系统、工作流和智能体能力。
+
+### 商业游学与创业观察路线
+
+1. [2026 中国商业游学手册](18-2026-business-study-tour.md)
+2. 依次观察义乌供应链、深圳 AI 与跨境、华强北硬件、珠海文旅消费和广州传统商贸。
+3. 使用文档中的采访问题库、商业模式卡和每日复盘模板沉淀现场信息。
 
 ## 扩展规则
 
