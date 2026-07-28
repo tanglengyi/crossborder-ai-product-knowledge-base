@@ -35,7 +35,9 @@ nav:
       - Kalodata 数据化选品: 05-tiktok-kalodata-product-selection.md
       - 选品深度判断与竞品拆解: 06-tiktok-kalodata-selection-deep-dive.md
   - 产品供应链库存: 07-product-supply-inventory.md
-  - 增长与销售: 08-growth-and-sales.md
+  - 增长与销售:
+      - 增长营销与销售运营: 08-growth-and-sales.md
+      - B2B 外贸独立站与工厂出口增长 2.0: 19-b2b-independent-site-and-export-growth-2.0.md
   - 客户运营: 09-customer-operations.md
   - 数据与财务: 10-data-and-finance.md
   - 组织与决策: 11-organization-and-management.md
@@ -47,8 +49,7 @@ nav:
       - 案例库说明: 15-cases.md
       - Kalodata 演示会笔记: 16-kalodata-webinar-selection-notes.md
   - 工具资源: 17-tools-and-resources.md
-  - 商业游学:
-      - 2026 中国商业游学手册: 18-2026-business-study-tour.md
+  - 商业游学: 18-2026-business-study-tour.md
   - 维护与模板:
       - 贡献规范: 90-contribution-guide.md
       - 主题模板: 91-topic-template.md
