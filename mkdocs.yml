@@ -1,5 +1,5 @@
-site_name: AI 商业经营、跨境增长与职业战略知识库
-site_description: BOS 企业经营、全球市场、跨境增长、AI 产品与个人职业战略知识体系
+site_name: AI Business Operating System Knowledge Base
+site_description: BOS 企业经营、全球市场、跨境增长、AI 产品与职业战略知识体系
 repo_url: https://github.com/tanglengyi/crossborder-ai-product-knowledge-base
 repo_name: tanglengyi/crossborder-ai-product-knowledge-base
 docs_dir: .
@@ -25,38 +25,53 @@ markdown_extensions:
       permalink: true
 
 nav:
-  - 首页: 00-home.md
-  - 战略与知识治理:
-      - 产品路线图（Roadmap）: 01-roadmap.md
-      - 版本更新日志（Release Notes）: 02-release-notes.md
-      - 知识脉络与目录架构: 03-knowledge-architecture.md
-      - 知识地图（历史）: 01-knowledge-map.md
-      - 术语表（历史）: 02-glossary.md
-  - 市场与商业机会:
-      - 商业机会研究方法论: 03-business-opportunity-research-methodology.md
-      - 市场洞察与品类管理: 04-market-and-category.md
-      - Kalodata 数据化选品: 05-tiktok-kalodata-product-selection.md
-      - 选品深度判断与竞品拆解: 06-tiktok-kalodata-selection-deep-dive.md
-      - 工具与数据源: 17-tools-and-resources.md
-      - 2026 中国商业游学: 18-2026-business-study-tour.md
-  - 产品、供应链与经营:
-      - 产品开发、供应链与库存: 07-product-supply-inventory.md
-      - 客户运营与售后: 09-customer-operations.md
-      - 数据分析与财务经营: 10-data-and-finance.md
-      - 组织协同与经营决策: 11-organization-and-management.md
-      - GM 经营系统: 03-gm-operating-system.md
-  - 增长与跨境渠道:
-      - 增长营销与销售运营: 08-growth-and-sales.md
-      - B2B 外贸独立站与工厂出口增长 2.0: 19-b2b-independent-site-and-export-growth-2.0.md
-      - TikTok 跨境端到端流程: 12-tiktok-end-to-end.md
-      - Kalodata 演示会来源笔记: 16-kalodata-webinar-selection-notes.md
-  - AI Business OS:
-      - AI 电商经营平台架构: 13-ai-platform-architecture.md
-      - AI 智能体能力清单: 14-ai-platform-agents.md
-  - 案例与资产:
-      - 案例库说明: 15-cases.md
-  - 模板与规范:
-      - 贡献与维护规范: 90-contribution-guide.md
-      - 主题模板: 91-topic-template.md
-      - 流程模板: 92-process-template.md
-      - 案例模板: 93-case-template.md
+  - 首页: README.md
+  - 00 知识治理:
+      - 模块说明: 00-governance/README.md
+      - 知识库首页: 00-governance/home.md
+      - 产品路线图: 00-governance/roadmap.md
+      - 版本更新日志: 00-governance/release-notes.md
+      - 知识架构: 00-governance/knowledge-architecture.md
+      - 知识地图: 00-governance/knowledge-map.md
+      - 术语表: 00-governance/glossary.md
+  - 01 市场与战略:
+      - 模块说明: 01-market-strategy/README.md
+      - 商业机会研究: 01-market-strategy/business-opportunity-research.md
+      - 市场与品类管理: 01-market-strategy/market-and-category.md
+      - Kalodata 数据化选品: 01-market-strategy/tiktok-kalodata-product-selection.md
+      - 选品与竞品深度分析: 01-market-strategy/tiktok-kalodata-selection-deep-dive.md
+  - 02 产品与供应链:
+      - 模块说明: 02-product-supply/README.md
+      - 产品、供应链与库存: 02-product-supply/product-supply-inventory.md
+  - 03 增长与渠道:
+      - 模块说明: 03-growth-channels/README.md
+      - 增长营销与销售运营: 03-growth-channels/growth-and-sales.md
+      - TikTok 端到端流程: 03-growth-channels/tiktok-end-to-end.md
+      - B2B 独立站与出口增长: 03-growth-channels/b2b-independent-site-and-export-growth.md
+      - Kalodata 演示会笔记: 03-growth-channels/kalodata-webinar-notes.md
+  - 04 经营、财务与组织:
+      - 模块说明: 04-operations-finance/README.md
+      - GM 经营系统: 04-operations-finance/gm-operating-system.md
+      - 客户运营与售后: 04-operations-finance/customer-operations.md
+      - 数据与财务经营: 04-operations-finance/data-and-finance.md
+      - 组织与经营决策: 04-operations-finance/organization-and-management.md
+  - 05 AI Business OS:
+      - 模块说明: 05-ai-business-os/README.md
+      - AI 经营平台架构: 05-ai-business-os/ai-platform-architecture.md
+      - AI 智能体能力: 05-ai-business-os/ai-platform-agents.md
+  - 06 职业与行业:
+      - 模块说明: 06-career-industry/README.md
+      - 职业战略与行业起点: 06-career-industry/career-strategy-and-industry-entry.md
+  - 07 案例与项目:
+      - 模块说明: 07-cases-projects/README.md
+      - 案例库: 07-cases-projects/cases.md
+      - 2026 商业游学: 07-cases-projects/2026-business-study-tour.md
+  - 08 工具与资料:
+      - 模块说明: 08-tools-resources/README.md
+      - 工具与数据源: 08-tools-resources/tools-and-resources.md
+  - 09 模板与规范:
+      - 模块说明: 09-templates/README.md
+      - 贡献与维护规范: 09-templates/contribution-guide.md
+      - 主题模板: 09-templates/topic-template.md
+      - 流程模板: 09-templates/process-template.md
+      - 案例模板: 09-templates/case-template.md
