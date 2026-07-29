@@ -1,149 +1,147 @@
-# 跨境电商经营与 AI 产品知识库
+# AI 商业经营、跨境增长与职业战略知识库
 
-本仓库用于系统沉淀商业机会研究、跨境电商 GM 经营方法、TikTok 跨境业务流程、商品与供应链管理、增长营销、数据财务分析，以及 AI 电商经营平台的产品架构。
+本仓库不是普通笔记集合，而是一套持续演进的 **Business Operating System（BOS）知识系统**，用于连接商业机会研究、全球市场、跨境经营、产品与供应链、增长与销售、财务与组织、AI 产品，以及个人职业和创业决策。
 
-> **商业机会决定产品，产品决定体验，体验影响经营指标，经营指标最终决定企业价值。**
+> **核心闭环：识别机会 → 判断价值 → 设计方案 → 组织资源 → 完成交易 → 交付结果 → 获取现金 → 复盘复制。**
 
-## 一级导航
+## 当前版本
 
-1. [首页](00-home.md)
+> **V2.1｜BOS 融合与知识架构重构版（2026-07）**
+
+当前阶段已经完成顶层经营框架与跨境知识的融合，正在补齐客户研究、商业模式、定价交易、行业地图和职业战略等关键模块。
+
+## 核心导航
+
+1. [知识库首页](00-home.md)
 2. [产品路线图（Roadmap）](01-roadmap.md)
 3. [版本更新日志（Release Notes）](02-release-notes.md)
-4. [商业机会研究](03-business-opportunity-research-methodology.md)
-5. 跨境电商经营
-6. TikTok 跨境
-7. AI 产品
-8. 案例库
-9. 模板
+4. [知识脉络与目录架构](03-knowledge-architecture.md)
+5. [商业机会研究方法论](03-business-opportunity-research-methodology.md)
+6. [电商 GM 经营系统](03-gm-operating-system.md)
+7. [B2B 外贸独立站与工厂出口增长体系 2.0](19-b2b-independent-site-and-export-growth-2.0.md)
+8. [AI 电商经营平台架构](13-ai-platform-architecture.md)
+9. [AI 智能体能力清单](14-ai-platform-agents.md)
 
-## 知识库目标
+## 统一知识主线
 
-- 把零散经验拆成可检索、可复用、可持续扩展的知识单元。
-- 同时服务于商业研究、电商经营学习、岗位能力建设、业务方案设计和 AI 产品规划。
-- 建立“商业机会—市场—经营—执行—数据—系统—AI”的完整闭环。
-- 通过 Roadmap、Backlog 和 Release Notes，像管理产品一样持续管理知识库。
-- 当前以根目录平铺为主；只有同一知识领域形成两篇及以上文档时再建立文件夹，单篇专题暂不单独建目录。
+### 企业经营主线
 
-## 产品规划
+> 行业与战略 → 客户与市场 → 产品与解决方案 → 商业模式与定价 → 渠道与销售 → 交付与客户成功 → 财务与现金流 → 组织与治理 → 增长与资本
 
-| 文档 | 作用 |
+### 跨境经营主线
+
+> 国家市场 → 客户需求 → 产品选择 → 供应链 → 准入认证 → 渠道获客 → 报价交易 → 履约售后 → 利润现金流 → 复盘复制
+
+### 个人职业主线
+
+> 产品交付 → 解决方案与售前 → 商业化经营 → 业务拓展 → 产品线经营 / 创业
+
+## 新目录体系
+
+仓库长期按照十个编号区间组织：
+
+| 序号范围 | 一级模块 |
 |---|---|
-| [产品路线图](01-roadmap.md) | 记录三年规划、下一版本、本月目标、本周目标和 Product Backlog |
-| [版本更新日志](02-release-notes.md) | 记录每个版本的新增、优化、修复和下一阶段计划 |
+| `00–09` | 入口、战略与知识治理 |
+| `10–19` | 市场、客户与商业机会 |
+| `20–29` | 产品、解决方案与供应链 |
+| `30–39` | 商业模式、定价与交易 |
+| `40–49` | 增长、渠道与销售 |
+| `50–59` | 经营、财务与组织 |
+| `60–69` | AI 产品与智能体 |
+| `70–79` | 职业、行业与创业实践 |
+| `80–89` | 案例、项目与洞察资产 |
+| `90–99` | 模板、规范与维护 |
 
-## 编号规则
+完整的目录、文件映射、迁移策略和内容补齐计划见：[知识脉络与目录架构](03-knowledge-architecture.md)。
 
-| 序号范围 | 内容 |
+## 现有核心内容映射
+
+| 经营领域 | 当前文档 |
 |---|---|
-| `00–02` | 首页、产品路线图和版本更新日志 |
-| `03` | 商业机会研究总纲与 GM 经营历史文档 |
-| `04–15` | 电商经营、TikTok 与 AI 产品核心知识 |
-| `16–19` | 案例、来源、工具、商业游学与外贸增长专题 |
-| `20–89` | 后续新增专题、流程和案例 |
-| `90–99` | 贡献规范和文档模板 |
-
-`README.md` 与 `mkdocs.yml` 保留标准文件名，不参与编号。
-
-## 核心文件
-
-| 序号 | 领域 | 文件 |
-|---|---|---|
-| 00 | 首页 | [知识库首页](00-home.md) |
-| 01 | 产品规划 | [产品路线图](01-roadmap.md) |
-| 02 | 版本管理 | [版本更新日志](02-release-notes.md) |
-| 01（历史） | 知识体系 | [知识地图](01-knowledge-map.md) |
-| 02（历史） | 基础术语 | [术语表](02-glossary.md) |
-| 03 | 商业研究 | [商业机会研究方法论](03-business-opportunity-research-methodology.md) |
-| 03（历史） | GM 经营 | [电商 GM 经营系统](03-gm-operating-system.md) |
-| 04 | 市场与品类 | [市场洞察与品类管理](04-market-and-category.md) |
-| 05 | 数据化选品 | [Kalodata 标准选品流程](05-tiktok-kalodata-product-selection.md) |
-| 06 | 竞品分析 | [选品深度判断与竞品拆解](06-tiktok-kalodata-selection-deep-dive.md) |
-| 07 | 产品与供应链 | [产品开发、供应链与库存](07-product-supply-inventory.md) |
-| 08 | 增长与销售 | [增长营销与销售运营](08-growth-and-sales.md) |
-| 09 | 客户运营 | [客户运营与售后](09-customer-operations.md) |
-| 10 | 数据与财务 | [数据分析与财务经营](10-data-and-finance.md) |
-| 11 | 组织管理 | [组织协同与经营决策](11-organization-and-management.md) |
-| 12 | TikTok 全流程 | [TikTok 跨境电商端到端流程](12-tiktok-end-to-end.md) |
-| 13 | AI 平台 | [AI 电商经营平台架构](13-ai-platform-architecture.md) |
-| 14 | AI 智能体 | [AI 智能体能力清单](14-ai-platform-agents.md) |
-| 15 | 案例库 | [案例库说明](15-cases.md) |
-| 16 | 会议来源 | [Kalodata 演示会笔记](16-kalodata-webinar-selection-notes.md) |
-| 17 | 工具资源 | [工具与数据源](17-tools-and-resources.md) |
-| 18 | 商业游学 | [2026 中国商业游学手册](18-2026-business-study-tour.md) |
-| 19 | 外贸增长 | [B2B 外贸独立站与工厂出口增长体系 2.0](19-b2b-independent-site-and-export-growth-2.0.md) |
-| 90 | 维护规范 | [贡献与维护规范](90-contribution-guide.md) |
-| 91–93 | 文档模板 | [主题模板](91-topic-template.md)、[流程模板](92-process-template.md)、[案例模板](93-case-template.md) |
+| 商业机会与市场 | [商业机会研究方法论](03-business-opportunity-research-methodology.md)、[市场洞察与品类管理](04-market-and-category.md) |
+| 选品与竞品 | [Kalodata 标准选品流程](05-tiktok-kalodata-product-selection.md)、[选品深度判断与竞品拆解](06-tiktok-kalodata-selection-deep-dive.md) |
+| 产品与供应链 | [产品开发、供应链与库存](07-product-supply-inventory.md) |
+| 增长与销售 | [增长营销与销售运营](08-growth-and-sales.md)、[B2B 外贸增长 2.0](19-b2b-independent-site-and-export-growth-2.0.md) |
+| 客户与售后 | [客户运营与售后](09-customer-operations.md) |
+| 财务与组织 | [数据分析与财务经营](10-data-and-finance.md)、[组织协同与经营决策](11-organization-and-management.md) |
+| TikTok 经营 | [TikTok 跨境端到端流程](12-tiktok-end-to-end.md) |
+| AI 产品 | [AI 平台架构](13-ai-platform-architecture.md)、[AI 智能体](14-ai-platform-agents.md) |
+| 案例与来源 | [案例库](15-cases.md)、[商业游学](18-2026-business-study-tour.md)、[工具与数据源](17-tools-and-resources.md) |
 
 ## 推荐阅读路线
 
-### 产品规划与维护路线
+### 路线一：理解整个 BOS
 
-1. [产品路线图](01-roadmap.md)
-2. [版本更新日志](02-release-notes.md)
-3. [贡献与维护规范](90-contribution-guide.md)
-4. 每完成一个专题，同步更新 Roadmap 与 Release Notes。
-
-### 商业机会研究路线
-
-1. [商业机会研究方法论](03-business-opportunity-research-methodology.md)
-2. [市场洞察与品类管理](04-market-and-category.md)
-3. [选品深度判断与竞品拆解](06-tiktok-kalodata-selection-deep-dive.md)
-4. [产品开发、供应链与库存](07-product-supply-inventory.md)
-5. [增长营销与销售运营](08-growth-and-sales.md)
+1. [知识库首页](00-home.md)
+2. [知识脉络与目录架构](03-knowledge-architecture.md)
+3. [产品路线图](01-roadmap.md)
+4. [商业机会研究方法论](03-business-opportunity-research-methodology.md)
+5. [GM 经营系统](03-gm-operating-system.md)
 6. [数据分析与财务经营](10-data-and-finance.md)
 7. [组织协同与经营决策](11-organization-and-management.md)
 
-### 电商经营路线
-
-1. [电商 GM 经营系统](03-gm-operating-system.md)
-2. [市场洞察与品类管理](04-market-and-category.md)
-3. [TikTok 数据化选品流程](05-tiktok-kalodata-product-selection.md)
-4. [产品开发、供应链与库存](07-product-supply-inventory.md)
-5. [增长营销与销售运营](08-growth-and-sales.md)
-6. [客户运营与售后](09-customer-operations.md)
-7. [数据分析与财务经营](10-data-and-finance.md)
-8. [组织协同与经营决策](11-organization-and-management.md)
-
-### B2B 外贸与独立站路线
+### 路线二：跨境经营与 B2B 外贸
 
 1. [商业机会研究方法论](03-business-opportunity-research-methodology.md)
 2. [市场洞察与品类管理](04-market-and-category.md)
 3. [产品开发、供应链与库存](07-product-supply-inventory.md)
 4. [增长营销与销售运营](08-growth-and-sales.md)
-5. [B2B 外贸独立站与工厂出口增长体系 2.0](19-b2b-independent-site-and-export-growth-2.0.md)
+5. [B2B 外贸独立站与工厂出口增长 2.0](19-b2b-independent-site-and-export-growth-2.0.md)
 6. [客户运营与售后](09-customer-operations.md)
 7. [数据分析与财务经营](10-data-and-finance.md)
 
-### TikTok 跨境路线
+### 路线三：TikTok 跨境经营
 
-1. [商业机会研究方法论](03-business-opportunity-research-methodology.md)
-2. [TikTok 跨境电商端到端流程](12-tiktok-end-to-end.md)
-3. [Kalodata 标准选品流程](05-tiktok-kalodata-product-selection.md)
-4. [选品深度判断与竞品拆解](06-tiktok-kalodata-selection-deep-dive.md)
-5. [Kalodata 演示会来源笔记](16-kalodata-webinar-selection-notes.md)
+1. [TikTok 跨境端到端流程](12-tiktok-end-to-end.md)
+2. [Kalodata 标准选品流程](05-tiktok-kalodata-product-selection.md)
+3. [选品深度判断与竞品拆解](06-tiktok-kalodata-selection-deep-dive.md)
+4. [Kalodata 演示会来源笔记](16-kalodata-webinar-selection-notes.md)
 
-### AI 产品经理路线
+### 路线四：AI 产品经理与 AI Business OS
 
 1. [商业机会研究方法论](03-business-opportunity-research-methodology.md)
 2. [AI 电商经营平台架构](13-ai-platform-architecture.md)
-3. [AI 智能体与能力清单](14-ai-platform-agents.md)
-4. 将经营流程映射为业务对象、数据、系统、工作流和智能体能力。
+3. [AI 智能体能力清单](14-ai-platform-agents.md)
+4. 将经营流程映射为业务对象、数据、系统、工作流和 Agent。
 
-### 商业游学与创业观察路线
+### 路线五：职业战略与行业起点
 
-1. [商业机会研究方法论](03-business-opportunity-research-methodology.md)
-2. [2026 中国商业游学手册](18-2026-business-study-tour.md)
-3. 依次观察义乌供应链、深圳 AI 与跨境、华强北硬件、珠海文旅消费和广州传统商贸。
-4. 使用文档中的采访问题库、商业模式卡和每日复盘模板沉淀现场信息。
+1. [知识脉络与目录架构](03-knowledge-architecture.md)
+2. [产品路线图中的职业与行业模块](01-roadmap.md#3-个人职业与行业起点)
+3. 按“行业研究 → 专业内容 → 客户访谈 → 供应链网络 → 小项目验证 → 真实交易”的路径形成经营证据。
 
-## 扩展规则
+## 内容成熟度
 
-新增知识文件时，优先判断是否已经存在同领域文档：
+每个知识模块按照四级成熟度管理：
 
-- 同一知识领域只有一篇文档时，继续保留在根目录。
-- 同一知识领域达到两篇及以上时，再建立对应文件夹并统一归档。
-- 文件继续使用稳定的两位序号，避免因移动目录而失去阅读顺序。
-- 每次新增核心文档，都要同步更新 [产品路线图](01-roadmap.md) 和 [版本更新日志](02-release-notes.md)。
+- **L0｜占位**：只有标题或零散提纲；
+- **L1｜框架**：定义、核心问题和结构完整；
+- **L2｜可执行**：包含流程、指标、检查表或模板；
+- **L3｜已验证**：包含真实案例、数据、结果和复盘。
+
+新增内容不以“建了文件”为完成，而以能否用于判断、决策、沟通、交易或交付为标准。
+
+## 近期建设重点
+
+V2.1 优先补齐：
+
+- BOS 总纲独立文档；
+- 职业战略与行业进入体系；
+- 客户与消费者研究方法论；
+- 商业模式、定价与单位经济模型；
+- 国家市场、行业研究和决策 Memo 模板；
+- README、MkDocs、Roadmap 和 Release Notes 的统一维护。
+
+详细计划见：[产品路线图](01-roadmap.md)。
+
+## 维护规范
+
+- 新专题先确定所属经营环节，再决定编号和文件位置。
+- 一篇文档可以服务多个模块，但必须确定一个主归属。
+- 事实、判断和假设应分开记录。
+- 每次新增核心专题，同步更新 Roadmap、Release Notes 和 MkDocs。
+- V2.1 阶段先完成逻辑重排，不立即批量重命名旧文件，避免历史链接失效。
 - 详细规则参见 [贡献与维护规范](90-contribution-guide.md)。
 
 ## 本地预览
