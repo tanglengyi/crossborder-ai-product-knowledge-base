@@ -1,5 +1,5 @@
 site_name: 跨境电商经营与 AI 产品知识库
-site_description: 电商 GM、TikTok 跨境业务与 AI 电商平台知识体系
+site_description: 商业机会研究、跨境电商经营、TikTok 业务与 AI 电商平台知识体系
 repo_url: https://github.com/tanglengyi/crossborder-ai-product-knowledge-base
 repo_name: tanglengyi/crossborder-ai-product-knowledge-base
 docs_dir: .
@@ -29,11 +29,17 @@ nav:
   - 知识库说明:
       - 知识地图: 01-knowledge-map.md
       - 术语表: 02-glossary.md
+  - 商业机会研究:
+      - 商业机会研究方法论: 03-business-opportunity-research-methodology.md
+      - 市场洞察与品类管理: 04-market-and-category.md
+      - 选品深度判断与竞品拆解: 06-tiktok-kalodata-selection-deep-dive.md
+      - 产品开发、供应链与库存: 07-product-supply-inventory.md
+      - 增长营销与销售运营: 08-growth-and-sales.md
+      - 数据分析与财务经营: 10-data-and-finance.md
+      - 组织协同与经营决策: 11-organization-and-management.md
   - GM经营系统: 03-gm-operating-system.md
   - 市场与选品:
-      - 市场洞察与品类管理: 04-market-and-category.md
       - Kalodata 数据化选品: 05-tiktok-kalodata-product-selection.md
-      - 选品深度判断与竞品拆解: 06-tiktok-kalodata-selection-deep-dive.md
   - 产品供应链库存: 07-product-supply-inventory.md
   - 增长与销售:
       - 增长营销与销售运营: 08-growth-and-sales.md
