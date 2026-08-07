@@ -10,4 +10,5 @@
 - [2026 中国商业游学手册](2026-business-study-tour.md)：深圳、广州等城市的商业游学框架、路线与现场提问清单。
 - [2026 深圳实地执行报告](2026-shenzhen-field-execution-report.md)：跨境展会、东南亚方法论、TikTok/Shopee、AI 工具、消费电子与城市商业观察。
 - [2026 广州实地执行报告](2026-guangzhou-field-execution-report.md)：十三行、功能性女装、万菱玩具/IP、原创 MOQ、价格竞争与供应链底层观察。
+- [2026 广州商业认知总结](2026-guangzhou-commercial-insights-summary.md)：把十三行、49 元裤装、功能女装、万菱 IP、原创毛绒 MOQ、广告标识产业、上海/广州差异与供应链地图沉淀为可复用创业方法论。
 - [2026 深圳 × 广州跨城商业复盘](2026-shenzhen-guangzhou-cross-city-business-review.md)：把深圳的市场/增长前端与广州的供应链/制造后端连接为一套可复用商业判断框架。
