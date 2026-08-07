@@ -8,3 +8,4 @@
 
 - [职业战略与行业起点](career-strategy-and-industry-entry.md)：个人职业方向、行业进入与能力建设。
 - [中国商业认知地图](china-business-cognition-map.md)：用城市、产业与商业模式建立长期可更新的商业认知框架。
+- [广州科技出海产业地图与全国产业巡航方法论](guangzhou-industry-and-national-industry-tour.md)：深入拆解广州“内容/游戏 + 跨境 + 智能硬件 + 珠三角供应链”结构，并建立“基地 + 产业根据地 + 全国专题巡航”的产业研究与产品机会转化方法。
