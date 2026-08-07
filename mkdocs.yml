@@ -63,6 +63,7 @@ nav:
       - 模块说明: 06-career-industry/README.md
       - 职业战略与行业起点: 06-career-industry/career-strategy-and-industry-entry.md
       - 中国商业认知地图: 06-career-industry/china-business-cognition-map.md
+      - 广州科技出海与产业巡航: 06-career-industry/guangzhou-industry-and-national-industry-tour.md
   - 07 案例与项目:
       - 模块说明: 07-cases-projects/README.md
       - 案例库: 07-cases-projects/cases.md
@@ -80,3 +81,20 @@ nav:
       - 主题模板: 09-templates/topic-template.md
       - 流程模板: 09-templates/process-template.md
       - 案例模板: 09-templates/case-template.md
+  - 10 Commercial Engine:
+      - 模块说明: 10-commercial-engine/README.md
+      - 客户研究与购买决策: 10-commercial-engine/customer-research-and-buying-system.md
+      - 商业模式与单位经济: 10-commercial-engine/business-model-and-unit-economics.md
+      - 定价、包装与折扣: 10-commercial-engine/pricing-packaging-and-discount.md
+      - 交易、合同与回款: 10-commercial-engine/deal-design-contract-and-cash.md
+      - B2B 销售与 Pipeline: 10-commercial-engine/b2b-sales-pipeline.md
+      - 售前、POC 与解决方案: 10-commercial-engine/presales-poc-and-solution.md
+      - GTM、渠道与伙伴: 10-commercial-engine/gtm-channel-and-partner.md
+      - 客户成功与扩张: 10-commercial-engine/customer-success-and-expansion.md
+  - 11 战略总地图:
+      - 模块说明: 11-strategy-maps/README.md
+      - 六张总地图与 BOS 导航: 11-strategy-maps/six-master-maps.md
+      - 全球国家市场地图: 11-strategy-maps/global-market-map.md
+      - 产业与行业地图: 11-strategy-maps/industry-map.md
+      - 产品系统与产品矩阵: 11-strategy-maps/product-system-map.md
+      - 全球商品与服务生态链: 11-strategy-maps/global-commerce-ecosystem-map.md
